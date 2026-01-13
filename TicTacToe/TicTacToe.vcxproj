@@ -21,8 +21,8 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{6225530d-c41f-49cb-b642-f0d764792bef}</ProjectGuid>
-    <RootNamespace>easyxgame</RootNamespace>
+    <ProjectGuid>{39e6e0b5-4259-4796-a732-5e846866a4f1}</ProjectGuid>
+    <RootNamespace>TicTacToe</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
